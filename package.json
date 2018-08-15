@@ -1,0 +1,24 @@
+{
+  "name": "web-course",
+  "version": "1.0.0",
+  "description": "learning git and node",
+  "main": "index.html",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KIMARINELSON77109/webSpecialty.git"
+  },
+  "author": "Kimari Nelson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KIMARINELSON77109/webSpecialty/issues"
+  },
+  "homepage": "https://github.com/KIMARINELSON77109/webSpecialty#readme",
+  "devDependencies": {
+    "lite-server": "^2.4.0"
+  }
+}
